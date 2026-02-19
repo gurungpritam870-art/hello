@@ -1,8 +1,6 @@
-a=200
+noun=["go","run","eat","go","go"]
 
+noun_2=["drink","rest","and"]
 
-if a > 300:
-    print("yes")
+print(noun+noun_2)
 
-elif a < 300:
-    print("easy")
